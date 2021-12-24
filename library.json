@@ -1,5 +1,5 @@
 {
-  "name": "AutoConnect",
+  "name": "NanomindsEsp66Portal",
   "keywords": "communication, http, server, web, wifi, wi-fi",
   "description": "ESP8266/ESP32 WLAN configuration at runtime with web interface.",
   "homepage": "https://hieromon.github.io/AutoConnect",
